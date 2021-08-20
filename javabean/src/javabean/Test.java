@@ -29,6 +29,8 @@ public class Test {
 		System.out.println("id="+obj.getId());
 		System.out.println("name="+obj.getName());
 		
+		System.out.println("hello");
+		
 	}
 
 }
